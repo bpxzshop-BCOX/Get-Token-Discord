@@ -52,7 +52,7 @@ chrome://extensions/
 
 ## 🖥️ วิธีใช้งาน
 
-1. เปิดเว็บที่อยู่ใน whitelist
+1. เปิดเว็บ discord.com
 2. คลิกไอคอน 🔑 ที่ toolbar
 3. กด **EXTRACT TOKEN**
 4. Token จะปรากฏในกล่อง → กด **Copy** เพื่อคัดลอก
