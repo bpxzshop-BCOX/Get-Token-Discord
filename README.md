@@ -54,7 +54,7 @@ chrome://extensions/
 
 1. เปิดเว็บ discord.com
 2. คลิกไอคอน 🔑 ที่ toolbar
-3. กด **EXTRACT TOKEN**
+3. กด **Get**
 4. Token จะปรากฏในกล่อง → กด **Copy** เพื่อคัดลอก
 
 ---
