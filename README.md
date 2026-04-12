@@ -42,26 +42,11 @@ chrome://extensions/
 
 ### 4. Load Extension
 
-กด **Load unpacked** → เลือกโฟลเดอร์ `token-extractor-extension`
+กด **Load unpacked** → เลือกโฟลเดอร์ `get-token-discord`
 
 ### 5. เสร็จแล้ว ✅
 
 ไอคอน 🔑 จะปรากฏที่ toolbar ของ Chrome
-
----
-
-## ⚙️ ตั้งค่า Domain ที่อนุญาต
-
-เปิดไฟล์ `popup.js` แล้วแก้ตรงนี้:
-
-```js
-const ALLOWED_URLS = [
-  'https://your-site.com',   // ← เปลี่ยนเป็น domain ที่ต้องการ
-  // 'https://another-site.com', // เพิ่ม domain ได้หลายอัน
-];
-```
-
-> รองรับทุก path เช่น `your-site.com/login`, `your-site.com/dashboard` ก็ใช้ได้หมด
 
 ---
 
